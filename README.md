@@ -1,3 +1,6 @@
 # izu
 初次使用
-what happend just now?
+readme-edits
+hello world!!!
+new files
+what happend just 
